@@ -1,6 +1,11 @@
 ![Header](./Github-Header.png)
 - 🔭 I’m currently working on a Event Registration and Payments Web App with a group of students in my university and my personal side projects for learning!
 - 🌱 I’m currently learning the basics of front end development!
+
+### Some of my Coding Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlotOfTypos&layout=donut-vertical&theme=city_lights)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/AlotOfTypos?ext=activity)](https://leetcode.com/AlotOfTypos)
+
 <!--
 **AlotOfTypos/AlotOfTypos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
